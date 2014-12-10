@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Robert Szabados",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^1.2.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "karma": "^0.12.28"
+  }
 }
