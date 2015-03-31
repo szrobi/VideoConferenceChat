@@ -9,7 +9,11 @@
   "author": "Robert Szabados",
   "license": "MIT",
   "dependencies": {
-    "socket.io": "^1.2.1"
+    "amqplib": "^0.3.2",
+    "express": "^4.12.3",
+    "request": "^2.54.0",
+    "socket.io": "^1.2.1",
+    "winston": "^0.9.0"
   },
   "devDependencies": {
     "chai": "^1.10.0",
